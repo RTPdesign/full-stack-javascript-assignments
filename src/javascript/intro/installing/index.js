@@ -1,8 +1,8 @@
-export const name = '';
+export const name = 'Ryan';
 
-export const email = '';
+export const email = 'ryan@rtpdesign.com';
 
-export const phone = '801-201-2200';
+export const phone = '405-831-8177';
 
 // Write code here
 
