@@ -19,7 +19,7 @@
 
 * What types of conditionals are there?
     * How is each type useful?
-        if to specify a block of code to be executed, if a specified condition is true
-    else to specify a block of code to be executed, if the same condition is false
-    else if to specify a new condition to test, if the first condition is false
-    switch to specify many alternative blocks of code to be executed
+        if is used to specify a block of code to be executed, if a specified condition is true
+        else is used to specify a block of code to be executed, if the same condition is false
+        else if is used to specify a new condition to test, if the first condition is false
+        switch is used to specify many alternative blocks of code to be executed
