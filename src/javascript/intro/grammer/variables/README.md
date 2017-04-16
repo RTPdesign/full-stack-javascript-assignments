@@ -20,7 +20,7 @@
 
 ## Observations
 
-1. What it he difference between var and let?
+1. What is the difference between var and let?
     var defines a variable globally or locally to an entire function regardless of the block scope, while let allows a variable to be declared with a limited scope to a block, statement, or expression.
 
 2. What is the difference between let and const?

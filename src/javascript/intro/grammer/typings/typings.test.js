@@ -22,7 +22,8 @@ Test('string typings', t => {
   t.is(Assignment.stringObj instanceof String, true)
 
   // What will this output?
-  // t.is(Assignment.myString, Assignment.stringObj)
+  //This will output not equal since one is a string type 
+  //t.is(Assignment.myString, Assignment.stringObj)
 });
 
 Test('object typings', t => {
