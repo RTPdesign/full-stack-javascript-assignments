@@ -81,7 +81,7 @@
     So you know how each will be treated and not get unexpected values.
 6. Fluffy the Cat
     1.  Does anything below surprise you? Did you have to change anything to make these tests pass? If so, why?
-
+            No it wasn't calling the right funciton. Yes I had to change Fluffy: to call the Cat function so it would call the right function.
 7. Sets
     The Set object lets you store unique values of any type, whether primitive values or object references.
 8. Weakmap
