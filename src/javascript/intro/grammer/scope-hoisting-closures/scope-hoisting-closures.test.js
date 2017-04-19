@@ -1,11 +1,6 @@
 import Test from 'ava';
 import * as Assignment from './';
 
-//Test('ssn sanitizes properly', t => {
-//  const ssn = Assignment.ssn('123-12-1231');
-//  t.is(ssn.sanitize(), '123121231');
-//});
-
 Test('ssn is valid works', t => {
   const ssn = Assignment.ssn('123-12-1231');
   t.truthy(ssn.isValid());

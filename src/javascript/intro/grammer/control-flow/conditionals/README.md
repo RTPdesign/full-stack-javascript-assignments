@@ -4,10 +4,10 @@
     Conditional statements are used to perform different actions based on different conditions. 
     We use conditionals to perform different actions for different decisions.
     Examples are:
-    if to specify a block of code to be executed, if a specified condition is true
-    else to specify a block of code to be executed, if the same condition is false
-    else if to specify a new condition to test, if the first condition is false
-    switch to specify many alternative blocks of code to be executed
+    if - to specify a block of code to be executed, if a specified condition is true
+    else - to specify a block of code to be executed, if the same condition is false
+    else if - to specify a new condition to test, if the first condition is false
+    switch - to specify many alternative blocks of code to be executed
 
 ### Requirements
 
